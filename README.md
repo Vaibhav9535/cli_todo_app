@@ -5,8 +5,8 @@ Why am I doing this - to learn different data structures.
 A lightweight, persistent command-line task manager built using Linked Lists in c++.
 
 ### Installation
-1. Clone the repo: 'https://github.com/Vaibhav9535/cli_todo_app.git'
-2. Compile the code: 'g++ main.cpp -o todo'
+1. Clone the repo: ```git clone https://github.com/Vaibhav9535/cli_todo_app.git```
+2. Compile the code: ```g++ main.cpp -o todo```
 
 ### Usage
 - Add a task: `./todo --add "Finish documentation"`
